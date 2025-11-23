@@ -16,7 +16,7 @@ MODEL_COMPONENTS = [
 ]
 SCORES = [
     0.785,
-    0.673,
+    0.671,
 ]
 METRICS = [
     {
@@ -31,9 +31,9 @@ METRICS = [
         "type": "metrics",
         "dataset": "test",
         "precision": 0.650,
-        "balanced_accuracy": 0.673,
-        "recall": 0.401,
-        "f1_score": 0.498,
+        "balanced_accuracy": 0.671,
+        "recall": 0.399,
+        "f1_score": 0.497,
     },
     {
         "type": "cm_matrix",
